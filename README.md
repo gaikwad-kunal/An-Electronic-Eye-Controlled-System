@@ -1,5 +1,5 @@
 # An Electronic Eye Controlled System 
-## An affordable security alarm system utilizing light intensity detection for safeguarding cash boxes and lockers."
+## "An affordable security alarm system utilizing light intensity detection for safeguarding cash boxes and lockers."
 
 Security is a paramount concern in our day-to-day lives, especially when it comes to safeguarding our belongings and properties. This project introduces an efficient security alarm system that operates based on the intensity of light detected by a Light Dependent Resistor (LDR). Traditional security systems available in the market can often be expensive, which may not be feasible for everyone. Hence, this project aims to provide an affordable alternative for securing cash boxes and lockers.
 
